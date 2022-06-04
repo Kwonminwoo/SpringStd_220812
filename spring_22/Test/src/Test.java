@@ -1,5 +1,8 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("gg");
+        Cat cat1 = new Cat("나비", 2);
+        cat1.eat();
+
+
     }
 }
